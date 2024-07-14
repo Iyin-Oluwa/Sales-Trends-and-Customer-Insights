@@ -34,14 +34,14 @@ This report presents an initial analysis of a sales dataset aimed at understandi
 
 ### 1. Dataset Overview:
 
-· The dataset comprises of 25 columns, including attributes such as order number, quantity ordered, price each, order date, sales, status, product line, year_id, month_id, qtr_id, MSRP, product code, address 1, address 2, postal code, contact last name, contact first name, deal size, territory, order line number, and customer details like customer name, city, state, country, phone number.
+The dataset comprises of 25 columns, including attributes such as order number, quantity ordered, price each, order date, sales, status, product line, year_id, month_id, qtr_id, MSRP, product code, address 1, address 2, postal code, contact last name, contact first name, deal size, territory, order line number, and customer details like customer name, city, state, country, phone number.
 
 · The numerical columns are as follows; quantity ordered, price each, sales, MSRP and categorical columns are product line, status, deal size.
 
 
 ### 2. Summary statistics:
-
-· Sales: The total sales amount ranges from 482.13 to 14,082.80, with an average of approximately 3,553.89 with a standard deviation of 1,841.87. The sales trend over time points that the month of November has the highest sales amongst other months with over $2 million.
+ 
+Sales: The total sales amount ranges from 482.13 to 14,082.80, with an average of approximately 3,553.89 with a standard deviation of 1,841.87. The sales trend over time points that the month of November has the highest sales amongst other months with over $2 million.
 
 Temporal Patterns:
 
